@@ -68,7 +68,7 @@ Questions, feedback, or contributions welcome via [GitHub Issues](https://github
 
 ---
 
-**For full details and key findings, see the [Kaggle submission](LINK_TO_KAGGLE_SUBMISSION) and [AlignInsight report](./AlignInsight-Report.docx).**
+**For full details and key findings, contact Dr Amobi Onovo at [dramobionovo@quantiuminsights.com](mailto:dramobionovo@quaniuminsights.com)**
 
 ---
 
