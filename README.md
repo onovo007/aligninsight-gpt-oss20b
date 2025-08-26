@@ -1,5 +1,4 @@
 # aligninsight-gpt-oss20b
-A reproducible framework for surfacing LLM vulnerabilities using creative scenario prompts and detailed scoring
 
 # AlignInsight: Multi-Tier Red-Teaming for LLM Safety
 
@@ -33,4 +32,45 @@ This framework combines creative scenario prompts, automated keyword analysis, s
 10. Steganography / Hidden Communications  
 
 ## Repository Structure
+aligninsight-llm-redteaming/
+├── README.md
+├── prompts/
+│ └── scenario_prompts.json
+├── notebooks/
+│ └── aligninsight_pipeline_demo.ipynb
+
+
+## Getting Started
+
+1. **Clone the repository**
+    ```
+    git clone https://github.com/yourusername/aligninsight-llm-redteaming.git
+    cd aligninsight-llm-redteaming
+    ```
+2. **Install requirements**  
+    _See `requirements.txt` for dependencies (e.g., Python ≥3.8, transformers, etc.)._
+
+3. **Run the demo notebook**  
+    Execute `notebooks/aligninsight_pipeline_demo.ipynb` to reproduce the two-tier evaluation workflow on open 7B-class LLMs.
+
+4. **Explore and contribute**  
+    - Test your own models with scenario prompts
+    - Review or suggest rubric/evaluation improvements
+    - Extend scenario libraries or risk categorization
+
+## Citation
+
+If you use or build on AlignInsight, please cite and refer back to this repository and the original competition submission.
+
+## Contact
+
+Questions, feedback, or contributions welcome via [GitHub Issues](https://github.com/yourusername/aligninsight-llm-redteaming/issues) or [amobiandrewonovo@gmail.com](mailto:amobiandrewonovo@gmail.com).
+
+---
+
+**For full details and key findings, see the [Kaggle submission](LINK_TO_KAGGLE_SUBMISSION) and [AlignInsight report](./AlignInsight-Report.docx).**
+
+---
+
+_Author: Dr. Amobi Onovo | 2025_
 
